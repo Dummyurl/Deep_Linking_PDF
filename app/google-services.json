@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "55528623856",
+    "firebase_url": "https://sharepdf-b4f6b.firebaseio.com",
+    "project_id": "sharepdf-b4f6b",
+    "storage_bucket": "sharepdf-b4f6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55528623856:android:3d71ea1d52ee3eda",
+        "android_client_info": {
+          "package_name": "com.manavjain.sharepdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55528623856-pkeip2j1981n8jk437ln27vl8q8agqo7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manavjain.sharepdf",
+            "certificate_hash": "87311de107b43a1f8ad235f7412696debfa6bb93"
+          }
+        },
+        {
+          "client_id": "55528623856-9e9uabepanaijd5jgi10vedpcoipdcaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWthkDVt2cEPmDj6YFFmC71R2tDfPODAQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55528623856-9e9uabepanaijd5jgi10vedpcoipdcaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
